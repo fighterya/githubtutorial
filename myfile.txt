@@ -1,1 +1,2 @@
 Please accept this PR.
+Adding a new line.
